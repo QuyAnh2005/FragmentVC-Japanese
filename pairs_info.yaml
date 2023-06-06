@@ -1,0 +1,14 @@
+pair1:
+    source: ./test/source/TRAVEL1000_0023.wav
+    target:
+        - ./test/target/female/FKN_SN_004.AD.wav
+pair2:
+    source: ./test/source/TRAVEL1000_0023.wav
+    target:
+        - ./test/target/female/FKN_SN_003.AD.wav
+        - ./test/target/female/FKN_SN_004.AD.wav
+        - ./test/target/female/FKN_SN_005.AD.wav
+        - ./test/target/female/FKN_SN_006.AD.wav
+        - ./test/target/female/FKN_SN_007.AD.wav
+        - ./test/target/female/FKN_SN_008.AD.wav
+        - ./test/target/female/FKN_SN_009.AD.wav
