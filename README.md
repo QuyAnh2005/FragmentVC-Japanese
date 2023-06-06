@@ -134,3 +134,9 @@ python train.py features --save_dir ./ckpts
 You can further specify `--preload` for preloading all training data into RAM to boost training speed.
 If `--comment <COMMENT>` is specified, e.g. `--comment jp`, the training logs will be placed under a newly created directory like, `logs/2020-02-02_12:34:56_jp`, otherwise there won't be any logging.
 For more details, you can refer to the usage by `python train.py -h`.
+
+## Demo 
+To see demo using `gradio`, run:
+```basg
+python app.py
+```
